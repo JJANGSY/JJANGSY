@@ -30,9 +30,7 @@ Hi, I am trying to become a data analyst😎
   ## Studying :pencil2: 
 
   <!--데이터-->
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-   <br/>
-  <!--백-->
+   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
    <br/>
    <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=MySQL&logoColor=white"/>
