@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <!--소개-->
 
 ## Introduction :raised_hands:
-Hi, I am trying to become a data analyst😎
+A year later, I'll be a great data analyst😎
 <br/><br/>
  
  
