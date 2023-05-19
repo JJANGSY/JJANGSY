@@ -16,10 +16,9 @@
   <!--데이터-->
    <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-   <br/>
    <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=MySQL&logoColor=white"/>
+   <br/>
    <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=MySQL&logoColor=white"/>
-  <br/>
    <img src="https://img.shields.io/badge/selenium-43B02A?style=flat&logo=python&logoColor=white"/>
    <img src="https://img.shields.io/badge/git-F7931E?style=flat&logo=MySQL&logoColor=white"/>
  
