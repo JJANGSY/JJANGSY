@@ -1,18 +1,3 @@
-<!--
-**JJANGSY/JJANGSY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- 참고 : https://github.com/yoon828/yoon828/blob/main/README.md -->
 
 <!-- 헤더 -->
@@ -21,9 +6,7 @@ Here are some ideas to get you started:
 <div align=center>
 <!--소개-->
 
-## Introduction :raised_hands:
-A year later, I'll be a great data analyst😎
-<br/><br/>
+### **데이터를 잘 이해하고 싶은 분석가**
  
  
  <!--기술스택-->
@@ -42,6 +25,11 @@ A year later, I'll be a great data analyst😎
    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=MySQL&logoColor=white"/>
   <br/>
 <br/><br/>
+ 
+ ## **Contacts** 💗
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-sqaure&logo=gmail&logoColor=white)](mailto:syjang356@gmail.com)
+
   
   
 </div>
